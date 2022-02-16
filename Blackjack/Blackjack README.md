@@ -1,9 +1,9 @@
-BlackJack!
+# BlackJack!
 
 
 Go easy on me. This file was made at the beginning of my python journey. I made it all using functions, I should have waited for the day on classes...
 
-This game has some pretty cool features that give it the statistical same feel as you would play in a casino!
+This game has some pretty cool features that give it the statistical same feel as you would observe in a casino!
 
 The deck you play from has 5 decks total inside of it, with automatic reshuffling at 50%. Of course, you can restock and reshuffle the deck again after any hand.
 
