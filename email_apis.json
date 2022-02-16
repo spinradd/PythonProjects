@@ -1,0 +1,11 @@
+{
+  "gmail":
+         {"host": "smtp.gmail.com",
+          "port": 587},
+"outlook":
+         {"host": "smtp-mail.outlook.com",
+          "port": 587},
+"yahoo":
+        {"host": "smtp.mail.yahoo.com",
+         "port": 587}
+}
