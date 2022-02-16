@@ -1,4 +1,7 @@
-Go easy on me. file was made at the beginning of my python journey. I made it all using functions, I should have waited for the day on classes...
+BlackJack!
+
+
+Go easy on me. This file was made at the beginning of my python journey. I made it all using functions, I should have waited for the day on classes...
 
 This game has some pretty cool features that give it the statistical same feel as you would play in a casino!
 
