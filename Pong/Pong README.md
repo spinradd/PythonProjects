@@ -1,5 +1,5 @@
 # Pong
-
+_Save and run all the files in the same level of your directory._
 
 This is _the_ classic arcade game.
 
@@ -10,5 +10,3 @@ Player one uses **w**, and **s** to move the paddle. Player two uses the **up** 
 The game ends at a score of 3.
 
 The ball has similiar properties to the pong you know and love!
-
-_Save and run all the files in the same level of your directory._
