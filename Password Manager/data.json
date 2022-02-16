@@ -1,0 +1,6 @@
+{
+    "FAKE_SITE": {
+        "email": "EXAMPLE_EMAIL@FAKE.COM",
+        "password": "FAKE_PASS"
+    }
+}
