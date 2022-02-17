@@ -10,3 +10,5 @@ After that, it will automatically travel to a google form of your creation where
 To do this, you will need to create a google form that uses three short answer inputs. Place the google sheet url into the "main" file.
 
 This program was developed to work on using the selenium technology, but a more effective way to use this program would be to transfer the data using google sheets API.
+
+You will need the selenium application.
