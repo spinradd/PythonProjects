@@ -4,3 +4,5 @@ This program will log into your instagram account and navigate to some other ins
 the new accounts followers.
 
 Be careful, this may violate some of instagram's user codes, but it was a fun exercise.
+
+You will also need the selenium application.
