@@ -1,2 +1,2 @@
 # PythonProjects
-A collection of python projects developed in learning the language
+A collection of python projects developed from learning the language
